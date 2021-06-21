@@ -1,2 +1,4 @@
 # Responsive-restaurant-website-mobile-friendly
-Responsive Website Restaurant Using HTML CSS And JavaScript
+Responsive Restaurant Website Using HTML CSS And JavaScript
+
+You can see the demo here ==> https://restaurant-website-1.000webhostapp.com/index.html
